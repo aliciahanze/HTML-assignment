@@ -1,3 +1,45 @@
+
+body {
+  background: bisque;
+}
+
+h1 {
+    font-size:150px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.wrapper {
+display: flex;
+  flex-direction: column;
+}
+
+
+
+/* Första lektionen!!
+.minclass{
+   font-size: 50px;
+  color: goldenrod;
+}
+
+
+h1 {
+  font-size: 40px;
+  color: crimson;
+}
+
+#mittID {
+  font-size: 30px;
+  color: coral;
+}
+
+
+
+
+
+
+
+
 /*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
 
 /* main.css 3.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
